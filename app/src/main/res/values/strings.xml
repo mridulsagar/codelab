@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Codelab Demo</string>
+    <string name="question">10 + 5 = ?</string>
+    <string name="type_your_answer">Type your answer</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="new_question">New Question</string>
+</resources>
